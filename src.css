@@ -1,0 +1,165 @@
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*@@      |                                                                 @@*/
+/*@@      |                                                Mg Table START   @@*/
+/*@@     \|/                                                                @@*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+/*
+Mg Table 1.0.0.0
+https://github.com/Pacoup/mg_table
+
+   Copyright 2013 Etienne Levesque Guitard
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+.mg_table{display:table;width:100%}
+.mg_tr{display:table-row}
+.mg_td{display:table-cell}
+.mg_td_0{display:table-cell;width:0%}
+.mg_td_1{display:table-cell;width:1%}
+.mg_td_2{display:table-cell;width:2%}
+.mg_td_3{display:table-cell;width:3%}
+.mg_td_4{display:table-cell;width:4%}
+.mg_td_5{display:table-cell;width:5%}
+.mg_td_6{display:table-cell;width:6%}
+.mg_td_7{display:table-cell;width:7%}
+.mg_td_8{display:table-cell;width:8%}
+.mg_td_9{display:table-cell;width:9%}
+.mg_td_10{display:table-cell;width:10%}
+.mg_td_11{display:table-cell;width:11%}
+.mg_td_12{display:table-cell;width:12%}
+.mg_td_13{display:table-cell;width:13%}
+.mg_td_14{display:table-cell;width:14%}
+.mg_td_15{display:table-cell;width:15%}
+.mg_td_16{display:table-cell;width:16%}
+.mg_td_17{display:table-cell;width:17%}
+.mg_td_18{display:table-cell;width:18%}
+.mg_td_19{display:table-cell;width:19%}
+.mg_td_20{display:table-cell;width:20%}
+.mg_td_21{display:table-cell;width:21%}
+.mg_td_22{display:table-cell;width:22%}
+.mg_td_23{display:table-cell;width:23%}
+.mg_td_24{display:table-cell;width:24%}
+.mg_td_25{display:table-cell;width:25%}
+.mg_td_26{display:table-cell;width:26%}
+.mg_td_27{display:table-cell;width:27%}
+.mg_td_28{display:table-cell;width:28%}
+.mg_td_29{display:table-cell;width:29%}
+.mg_td_30{display:table-cell;width:30%}
+.mg_td_31{display:table-cell;width:31%}
+.mg_td_32{display:table-cell;width:32%}
+.mg_td_33{display:table-cell;width:33%}
+.mg_td_34{display:table-cell;width:34%}
+.mg_td_35{display:table-cell;width:35%}
+.mg_td_36{display:table-cell;width:36%}
+.mg_td_37{display:table-cell;width:37%}
+.mg_td_38{display:table-cell;width:38%}
+.mg_td_39{display:table-cell;width:39%}
+.mg_td_40{display:table-cell;width:40%}
+.mg_td_41{display:table-cell;width:41%}
+.mg_td_42{display:table-cell;width:42%}
+.mg_td_43{display:table-cell;width:43%}
+.mg_td_44{display:table-cell;width:44%}
+.mg_td_45{display:table-cell;width:45%}
+.mg_td_46{display:table-cell;width:46%}
+.mg_td_47{display:table-cell;width:47%}
+.mg_td_48{display:table-cell;width:48%}
+.mg_td_49{display:table-cell;width:49%}
+.mg_td_50{display:table-cell;width:50%}
+.mg_td_51{display:table-cell;width:51%}
+.mg_td_52{display:table-cell;width:52%}
+.mg_td_53{display:table-cell;width:53%}
+.mg_td_54{display:table-cell;width:54%}
+.mg_td_55{display:table-cell;width:55%}
+.mg_td_56{display:table-cell;width:56%}
+.mg_td_57{display:table-cell;width:57%}
+.mg_td_58{display:table-cell;width:58%}
+.mg_td_59{display:table-cell;width:59%}
+.mg_td_60{display:table-cell;width:60%}
+.mg_td_61{display:table-cell;width:61%}
+.mg_td_62{display:table-cell;width:62%}
+.mg_td_63{display:table-cell;width:63%}
+.mg_td_64{display:table-cell;width:64%}
+.mg_td_65{display:table-cell;width:65%}
+.mg_td_66{display:table-cell;width:66%}
+.mg_td_67{display:table-cell;width:67%}
+.mg_td_68{display:table-cell;width:68%}
+.mg_td_69{display:table-cell;width:69%}
+.mg_td_70{display:table-cell;width:70%}
+.mg_td_71{display:table-cell;width:71%}
+.mg_td_72{display:table-cell;width:72%}
+.mg_td_73{display:table-cell;width:73%}
+.mg_td_74{display:table-cell;width:74%}
+.mg_td_75{display:table-cell;width:75%}
+.mg_td_76{display:table-cell;width:76%}
+.mg_td_77{display:table-cell;width:77%}
+.mg_td_78{display:table-cell;width:78%}
+.mg_td_79{display:table-cell;width:79%}
+.mg_td_80{display:table-cell;width:80%}
+.mg_td_81{display:table-cell;width:81%}
+.mg_td_82{display:table-cell;width:82%}
+.mg_td_83{display:table-cell;width:83%}
+.mg_td_84{display:table-cell;width:84%}
+.mg_td_85{display:table-cell;width:85%}
+.mg_td_86{display:table-cell;width:86%}
+.mg_td_87{display:table-cell;width:87%}
+.mg_td_88{display:table-cell;width:88%}
+.mg_td_89{display:table-cell;width:89%}
+.mg_td_90{display:table-cell;width:90%}
+.mg_td_91{display:table-cell;width:91%}
+.mg_td_92{display:table-cell;width:92%}
+.mg_td_93{display:table-cell;width:93%}
+.mg_td_94{display:table-cell;width:94%}
+.mg_td_95{display:table-cell;width:95%}
+.mg_td_96{display:table-cell;width:96%}
+.mg_td_97{display:table-cell;width:97%}
+.mg_td_98{display:table-cell;width:98%}
+.mg_td_99{display:table-cell;width:99%}
+.mg_td_100{display:table-cell;width:100%}
+@media screen and (max-width: 767px)
+{
+	.mg_table{display:block;width:auto}
+	.mg_tr{display:block}
+	.mg_td{display:block}
+	.mg_td_0,
+	.mg_td_1, .mg_td_2, .mg_td_3, .mg_td_4, .mg_td_5,
+	.mg_td_6, .mg_td_7, .mg_td_8, .mg_td_9, .mg_td_10,
+	.mg_td_11, .mg_td_12, .mg_td_13, .mg_td_14, .mg_td_15,
+	.mg_td_16, .mg_td_17, .mg_td_18, .mg_td_19, .mg_td_20,
+	.mg_td_21, .mg_td_22, .mg_td_23, .mg_td_24, .mg_td_25,
+	.mg_td_26, .mg_td_27, .mg_td_28, .mg_td_29, .mg_td_30,
+	.mg_td_31, .mg_td_32, .mg_td_33, .mg_td_34, .mg_td_35,
+	.mg_td_36, .mg_td_37, .mg_td_38, .mg_td_39, .mg_td_40,
+	.mg_td_41, .mg_td_42, .mg_td_43, .mg_td_44, .mg_td_45,
+	.mg_td_46, .mg_td_47, .mg_td_48, .mg_td_49, .mg_td_50,
+	.mg_td_51, .mg_td_52, .mg_td_53, .mg_td_54, .mg_td_55,
+	.mg_td_56, .mg_td_57, .mg_td_58, .mg_td_59, .mg_td_60,
+	.mg_td_61, .mg_td_62, .mg_td_63, .mg_td_64, .mg_td_65,
+	.mg_td_66, .mg_td_67, .mg_td_68, .mg_td_69, .mg_td_70,
+	.mg_td_71, .mg_td_72, .mg_td_73, .mg_td_74, .mg_td_75,
+	.mg_td_76, .mg_td_77, .mg_td_78, .mg_td_79, .mg_td_80,
+	.mg_td_81, .mg_td_82, .mg_td_83, .mg_td_84, .mg_td_85,
+	.mg_td_86, .mg_td_87, .mg_td_88, .mg_td_89, .mg_td_90,
+	.mg_td_91, .mg_td_92, .mg_td_93, .mg_td_94, .mg_td_95,
+	.mg_td_96, .mg_td_97, .mg_td_98, .mg_td_99, .mg_td_100
+	{
+		display: block;
+		width: auto;
+	}
+}
+
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+/*@@     /|\                                                                @@*/
+/*@@      |                                                  Mg Table END   @@*/
+/*@@      |                                                                 @@*/
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
