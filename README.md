@@ -1,2 +1,3 @@
-mg-table
+Mg Table
 ========
+No documentation is currently available.
